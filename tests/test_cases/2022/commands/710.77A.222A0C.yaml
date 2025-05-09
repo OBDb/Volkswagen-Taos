@@ -1,0 +1,10 @@
+command_id: 710.77A.222A0C
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 77A04622A0C3C
+  expected_values:
+    VOLKSWAGEN_SSB_SOC: 60
+- response: 77A04622A0C3D
+  expected_values:
+    VOLKSWAGEN_SSB_SOC: 61
