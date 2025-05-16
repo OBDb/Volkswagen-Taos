@@ -1,0 +1,16 @@
+command_id: 7E0.0167
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8054167038688'
+  expected_values:
+    ECT_1: 94
+    ECT_1_SUP: 1
+    ECT_2: 96
+    ECT_2_SUP: 1
+- response: 7E8054167038C8D
+  expected_values:
+    ECT_1: 100
+    ECT_1_SUP: 1
+    ECT_2: 101
+    ECT_2_SUP: 1
