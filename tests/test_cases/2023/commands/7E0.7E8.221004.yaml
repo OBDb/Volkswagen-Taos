@@ -5,9 +5,9 @@ test_cases:
 - response: '7E8056210040000'
   expected_values:
     VOLKSWAGEN_AAT_V2: 0
-- response: 7E805621004FF24
+- response: 7E805621004FF12
   expected_values:
-    VOLKSWAGEN_AAT_V2: -1.71875
+    VOLKSWAGEN_AAT_V2: -1.85938
 - response: 7E805621004FFE3
   expected_values:
     VOLKSWAGEN_AAT_V2: -0.22656
