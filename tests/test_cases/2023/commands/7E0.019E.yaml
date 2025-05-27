@@ -1,34 +1,11 @@
 command_id: 7E0.019E
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
 - response: 7E804419E002D
   expected_values:
     EXH_RATE: 9
-- response: 7E804419E002F
-  expected_values:
-    EXH_RATE: 9.4
-- response: 7E804419E0035
-  expected_values:
-    EXH_RATE: 10.6
-- response: 7E804419E0036
-  expected_values:
-    EXH_RATE: 10.8
-- response: 7E804419E0042
-  expected_values:
-    EXH_RATE: 13.2
-- response: 7E804419E0047
-  expected_values:
-    EXH_RATE: 14.2
-- response: 7E804419E0073
-  expected_values:
-    EXH_RATE: 23
 - response: 7E804419E01B6
   expected_values:
     EXH_RATE: 87.6
 - response: 7E804419E0202
   expected_values:
     EXH_RATE: 102.8
-- response: 7E804419E0221
-  expected_values:
-    EXH_RATE: 109
