@@ -1,0 +1,14 @@
+command_id: 7E1.223841
+test_cases:
+- response: '7E90762384100930600'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 430848
+- response: 7E90762384102A20600
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 434690
+- response: 7E907623841CA840600
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 427210
+- response: 7E907623841FF870600
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 428031
