@@ -8,11 +8,11 @@ test_cases:
   expected_values:
     VOLKSWAGEN_ODO_2_V3: 43011
     VOLKSWAGEN_ODO_V3: 43011
-- response: 7E8076210E00000A8FB
-  expected_values:
-    VOLKSWAGEN_ODO_2_V3: 43259
-    VOLKSWAGEN_ODO_V3: 43259
 - response: 7E8076210E00000AA1E
   expected_values:
     VOLKSWAGEN_ODO_2_V3: 43550
     VOLKSWAGEN_ODO_V3: 43550
+- response: 7E8076210E00000AAFC
+  expected_values:
+    VOLKSWAGEN_ODO_2_V3: 43772
+    VOLKSWAGEN_ODO_V3: 43772
