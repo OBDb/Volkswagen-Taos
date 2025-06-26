@@ -1,14 +1,18 @@
 command_id: 7E0.2210E0
 test_cases:
-- response: 7E8076210E0000133EE
-  expected_values:
+- expected_values:
+    VOLKSWAGEN_ODO_2_V3: 48889
+    VOLKSWAGEN_ODO_V3: 48889
+  response: 7E8076210E00000BEF9
+- expected_values:
+    VOLKSWAGEN_ODO_2_V3: 48890
+    VOLKSWAGEN_ODO_V3: 48890
+  response: 7E8076210E00000BEFA
+- expected_values:
+    VOLKSWAGEN_ODO_2_V3: 48927
+    VOLKSWAGEN_ODO_V3: 48927
+  response: 7E8076210E00000BF1F
+- expected_values:
     VOLKSWAGEN_ODO_2_V3: 78830
     VOLKSWAGEN_ODO_V3: 78830
-- response: 7E8076210E0000133EF
-  expected_values:
-    VOLKSWAGEN_ODO_2_V3: 78831
-    VOLKSWAGEN_ODO_V3: 78831
-- response: 7E8076210E0000133F0
-  expected_values:
-    VOLKSWAGEN_ODO_2_V3: 78832
-    VOLKSWAGEN_ODO_V3: 78832
+  response: 7E8076210E0000133EE

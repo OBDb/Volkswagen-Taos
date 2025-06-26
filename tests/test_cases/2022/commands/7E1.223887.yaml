@@ -1,20 +1,23 @@
 command_id: 7E1.223887
 test_cases:
-- response: 7E90762388752E40B00
-  expected_values:
+- expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 0
+  response: '7E90762388700000000'
+- expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 77934.6
-- response: 7E90762388753E40B00
-  expected_values:
+  response: 7E90762388752E40B00
+- expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 77934.7
-- response: 7E90762388754E40B00
-  expected_values:
+  response: 7E90762388753E40B00
+- expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 77934.8
-- response: 7E90762388758E40B00
-  expected_values:
+  response: 7E90762388754E40B00
+- expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 77935.2
-- response: 7E9076238875CE40B00
-  expected_values:
+  response: 7E90762388758E40B00
+- expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 77935.6
-- response: 7E90762388764E40B00
-  expected_values:
+  response: 7E9076238875CE40B00
+- expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 77936.4
+  response: 7E90762388764E40B00

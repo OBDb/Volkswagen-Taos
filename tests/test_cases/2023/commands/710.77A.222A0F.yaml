@@ -1,8 +1,8 @@
 command_id: 710.77A.222A0F
 test_cases:
-- response: 77A04622A0F1E
-  expected_values:
-    VOLKSWAGEN_SSB_AH: 30
-- response: 77A04622A0F64
-  expected_values:
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 0
+  response: 77A04622A0F00
+- expected_values:
     VOLKSWAGEN_SSB_AH: 100
+  response: 77A04622A0F64

@@ -1,14 +1,17 @@
 command_id: 7E1.223841
 test_cases:
-- response: '7E90762384100930600'
-  expected_values:
+- expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 459264
+  response: '7E90762384100020700'
+- expected_values:
     VOLKSWAGEN_ODO_TCM_1: 430848
-- response: 7E90762384108A80600
-  expected_values:
-    VOLKSWAGEN_ODO_TCM_1: 436232
-- response: 7E907623841CA840600
-  expected_values:
-    VOLKSWAGEN_ODO_TCM_1: 427210
-- response: 7E907623841FF870600
-  expected_values:
-    VOLKSWAGEN_ODO_TCM_1: 428031
+  response: '7E90762384100930600'
+- expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 458754
+  response: '7E90762384102000700'
+- expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 458498
+  response: 7E90762384102FF0600
+- expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 459007
+  response: 7E907623841FF000700
