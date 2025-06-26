@@ -1,14 +1,14 @@
 command_id: 7E0.2211BA
 test_cases:
-- response: 7E8056211BA2882
-  expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 41.48
-- response: 7E8056211BA3304
-  expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 52.24
-- response: 7E8056211BA38FE
-  expected_values:
+- expected_values:
+    VOLKSWAGEN_OIL_LEVEL: 33.58
+  response: 7E8056211BA20CB
+- expected_values:
+    VOLKSWAGEN_OIL_LEVEL: 55.3
+  response: 7E8056211BA3601
+- expected_values:
     VOLKSWAGEN_OIL_LEVEL: 58.36
-- response: 7E8056211BA3EE9
-  expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 64.42
+  response: 7E8056211BA38FE
+- expected_values:
+    VOLKSWAGEN_OIL_LEVEL: 72.32
+  response: 7E8056211BA46A0
