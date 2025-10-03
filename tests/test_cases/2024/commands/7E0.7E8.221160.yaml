@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221160
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ODO_HD: 47816.925
+  response: 7E80762116002D9A0DD
