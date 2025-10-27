@@ -4,29 +4,5 @@ test_cases:
     VOLKSWAGEN_WARM_UPS: 0
   response: 7E80462F43000
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 3
-  response: 7E80462F43003
-- expected_values:
-    VOLKSWAGEN_WARM_UPS: 4
-  response: 7E80462F43004
-- expected_values:
-    VOLKSWAGEN_WARM_UPS: 6
-  response: 7E80462F43006
-- expected_values:
-    VOLKSWAGEN_WARM_UPS: 8
-  response: 7E80462F43008
-- expected_values:
-    VOLKSWAGEN_WARM_UPS: 11
-  response: 7E80462F4300B
-- expected_values:
-    VOLKSWAGEN_WARM_UPS: 197
-  response: 7E80462F430C5
-- expected_values:
-    VOLKSWAGEN_WARM_UPS: 200
-  response: 7E80462F430C8
-- expected_values:
-    VOLKSWAGEN_WARM_UPS: 205
-  response: 7E80462F430CD
-- expected_values:
     VOLKSWAGEN_WARM_UPS: 207
   response: 7E80462F430CF

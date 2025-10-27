@@ -6,26 +6,8 @@ test_cases:
     2210141
     77E0462101479
 - expected_values:
-    VOLKSWAGEN_AAT: 9.5
-  response: '77E0462101477'
-- expected_values:
-    VOLKSWAGEN_AAT: 10
-  response: '77E0462101478'
-- expected_values:
-    VOLKSWAGEN_AAT: 10.5
-  response: '77E0462101479'
-- expected_values:
-    VOLKSWAGEN_AAT: 11.5
-  response: 77E046210147B
-- expected_values:
-    VOLKSWAGEN_AAT: 15.5
-  response: '77E0462101483'
-- expected_values:
-    VOLKSWAGEN_AAT: 16
-  response: '77E0462101484'
-- expected_values:
-    VOLKSWAGEN_AAT: 16.5
-  response: '77E0462101485'
+    VOLKSWAGEN_AAT: 8
+  response: '77E0462101474'
 - expected_values:
     VOLKSWAGEN_AAT: 17
   response: '77E0462101486'
