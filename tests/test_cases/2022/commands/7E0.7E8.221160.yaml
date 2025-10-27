@@ -1,17 +1,27 @@
 command_id: 7E0.7E8.221160
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 48787.071
-  response: 7E80762116002E86E7F
+    VOLKSWAGEN_ODO_HD: 41061.989
+  response: |-
+    2211601
+    7E80762116002728E65
+- expected_values:
+    VOLKSWAGEN_ODO_HD: 41066.449
+  response: |-
+    2211601
+    7E80762116002729FD1
+- expected_values:
+    VOLKSWAGEN_ODO_HD: 41016.298
+  response: 7E8076211600271DBEA
+- expected_values:
+    VOLKSWAGEN_ODO_HD: 41061.633
+  response: 7E80762116002728D01
 - expected_values:
     VOLKSWAGEN_ODO_HD: 48824.261
   response: 7E80762116002E8FFC5
 - expected_values:
     VOLKSWAGEN_ODO_HD: 48824.395
   response: 7E80762116002E9004B
-- expected_values:
-    VOLKSWAGEN_ODO_HD: 48967.683
-  response: 7E80762116002EB3003
 - expected_values:
     VOLKSWAGEN_ODO_HD: 48980.223
   response: 7E80762116002EB60FF

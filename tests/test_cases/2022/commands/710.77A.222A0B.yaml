@@ -1,6 +1,11 @@
 command_id: 710.77A.222A0B
 test_cases:
 - expected_values:
+    VOLKSWAGEN_SSB_T: 22
+  response: |-
+    222A0B1
+    77A04622A0B3E
+- expected_values:
     VOLKSWAGEN_SSB_T: -40
   response: 77A04622A0B00
 - expected_values:

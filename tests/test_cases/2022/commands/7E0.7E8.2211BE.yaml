@@ -1,26 +1,13 @@
 command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
+    VOLKSWAGEN_EOT_V2: 4
+  response: |-
+    2211BE1
+    7E8056211BE0004
+- expected_values:
     VOLKSWAGEN_EOT_V2: 1
   response: 7E8056211BE0001
-- expected_values:
-    VOLKSWAGEN_EOT_V2: 2
-  response: 7E8056211BE0002
-- expected_values:
-    VOLKSWAGEN_EOT_V2: 4
-  response: 7E8056211BE0004
-- expected_values:
-    VOLKSWAGEN_EOT_V2: 6
-  response: 7E8056211BE0006
-- expected_values:
-    VOLKSWAGEN_EOT_V2: 8
-  response: 7E8056211BE0008
-- expected_values:
-    VOLKSWAGEN_EOT_V2: 10
-  response: 7E8056211BE000A
-- expected_values:
-    VOLKSWAGEN_EOT_V2: 11
-  response: 7E8056211BE000B
 - expected_values:
     VOLKSWAGEN_EOT_V2: 65521
   response: 7E8056211BEFFF1
