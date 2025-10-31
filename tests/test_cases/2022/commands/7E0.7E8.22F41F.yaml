@@ -14,11 +14,11 @@ test_cases:
     VOLKSWAGEN_RUNTM: 6
   response: 7E80562F41F0006
 - expected_values:
-    VOLKSWAGEN_RUNTM: 260
-  response: 7E80562F41F0104
-- expected_values:
     VOLKSWAGEN_RUNTM: 511
   response: 7E80562F41F01FF
 - expected_values:
-    VOLKSWAGEN_RUNTM: 4657
-  response: 7E80562F41F1231
+    VOLKSWAGEN_RUNTM: 4864
+  response: 7E80562F41F1300
+- expected_values:
+    VOLKSWAGEN_RUNTM: 5520
+  response: 7E80562F41F1590
