@@ -1,0 +1,14 @@
+command_id: 746.7B0.222609|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_AAT_V2: 0
+  response: 7B00462260900
+- expected_values:
+    VOLKSWAGEN_AAT_V2: 1
+  response: 7B00462260902
+- expected_values:
+    VOLKSWAGEN_AAT_V2: 1.5
+  response: 7B00462260903
+- expected_values:
+    VOLKSWAGEN_AAT_V2: 4
+  response: 7B00462260908
