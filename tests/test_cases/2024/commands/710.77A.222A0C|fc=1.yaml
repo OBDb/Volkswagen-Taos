@@ -1,5 +1,6 @@
-command_id: 710.77A.222A0C
+command_id: 710.77A.222A0C|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_BAT_SOC: 73
     VOLKSWAGEN_SSB_SOC: 73
   response: 77A04622A0C49

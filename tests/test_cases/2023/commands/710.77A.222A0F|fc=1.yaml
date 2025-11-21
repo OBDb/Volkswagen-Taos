@@ -1,8 +1,8 @@
-command_id: 710.77A.222A0F
+command_id: 710.77A.222A0F|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_SSB_AH: 0
+    VOLKSWAGEN_USE_BAT_CHG: 0
   response: 77A04622A0F00
 - expected_values:
-    VOLKSWAGEN_SSB_AH: 100
+    VOLKSWAGEN_USE_BAT_CHG: 100
   response: 77A04622A0F64
