@@ -10,5 +10,14 @@ test_cases:
     VOLKSWAGEN_AAT_V2: 1.5
   response: 7B00462260903
 - expected_values:
+    VOLKSWAGEN_AAT_V2: 2
+  response: 7B00462260904
+- expected_values:
+    VOLKSWAGEN_AAT_V2: 3
+  response: 7B00462260906
+- expected_values:
+    VOLKSWAGEN_AAT_V2: 3.5
+  response: 7B00462260907
+- expected_values:
     VOLKSWAGEN_AAT_V2: 4
   response: 7B00462260908
