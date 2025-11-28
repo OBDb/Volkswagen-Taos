@@ -1,6 +1,10 @@
 command_id: 767.7D1.220838|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_ECALL_SOC: 99
+    VOLKSWAGEN_ECALL_STATUS: NORMAL
+  response: 7D1056208380263
+- expected_values:
     VOLKSWAGEN_ECALL_SOC: 100
     VOLKSWAGEN_ECALL_STATUS: NORMAL
   response: 7D1056208380264
