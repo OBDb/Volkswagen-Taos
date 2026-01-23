@@ -1,16 +1,16 @@
 command_id: 714.77E.221014|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT: 71
+    VOLKSWAGEN_AAT: 10.5
     VOLKSWAGEN_DASH_AMBIENT_AIR_T: 10.5
   response: |-
     2210141
     77E0462101479
 - expected_values:
-    VOLKSWAGEN_AAT: 66
+    VOLKSWAGEN_AAT: 8
     VOLKSWAGEN_DASH_AMBIENT_AIR_T: 8
   response: '77E0462101474'
 - expected_values:
-    VOLKSWAGEN_AAT: 84
+    VOLKSWAGEN_AAT: 17
     VOLKSWAGEN_DASH_AMBIENT_AIR_T: 17
   response: '77E0462101486'

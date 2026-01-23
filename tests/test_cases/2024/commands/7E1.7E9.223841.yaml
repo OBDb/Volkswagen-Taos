@@ -1,5 +1,6 @@
-command_id: 7E1.223841
+command_id: 7E1.7E9.223841
 test_cases:
 - expected_values:
     VOLKSWAGEN_ODO_TCM_1: 478037
+    VOLKSWAGEN_ODO_V1: 143098035.2
   response: 7E907623841554B0700
