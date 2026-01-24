@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Taos"
+
 generations:
   - name: "First Generation"
     start_year: 2020
