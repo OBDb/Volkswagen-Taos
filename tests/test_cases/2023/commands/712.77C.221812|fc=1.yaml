@@ -4,6 +4,12 @@ test_cases:
     VOLKSWAGEN_STEER_WHEEL_ANGLE: 745.625
   response: 77C05621812174D
 - expected_values:
+    VOLKSWAGEN_STEER_WHEEL_ANGLE: 748.75
+  response: 77C056218121766
+- expected_values:
+    VOLKSWAGEN_STEER_WHEEL_ANGLE: 748.875
+  response: 77C056218121767
+- expected_values:
     VOLKSWAGEN_STEER_WHEEL_ANGLE: 749.375
   response: 77C05621812176B
 - expected_values:
@@ -12,3 +18,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_STEER_WHEEL_ANGLE: 763.5
   response: 77C0562181217DC
+- expected_values:
+    VOLKSWAGEN_STEER_WHEEL_ANGLE: 784.125
+  response: 77C056218121881
