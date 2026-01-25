@@ -41,6 +41,11 @@ test_cases:
     VOLKSWAGEN_SSB_RES_INT: 6.2
   response: 77A04622A0E1F
 - expected_values:
+    VOLKSWAGEN_BAT_INT_R: 6.4
+    VOLKSWAGEN_SSB_R: 6.4
+    VOLKSWAGEN_SSB_RES_INT: 6.4
+  response: 77A04622A0E20
+- expected_values:
     VOLKSWAGEN_BAT_INT_R: 51
     VOLKSWAGEN_SSB_R: 51
     VOLKSWAGEN_SSB_RES_INT: -0.2
