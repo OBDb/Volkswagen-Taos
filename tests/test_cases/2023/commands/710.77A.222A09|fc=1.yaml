@@ -19,4 +19,4 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_BAT_I: 13777.215
     VOLKSWAGEN_SSB_C: 0
-  response: 77A07622A09FFFFFF4D
+  response: 77A07622A09FFFFFF40
