@@ -1,8 +1,8 @@
 command_id: 712.77C.221812|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_STEER_WHEEL_ANGLE: 726.875
-  response: 77C0562181216B7
+    VOLKSWAGEN_STEER_WHEEL_ANGLE: 711
+  response: 77C056218121638
 - expected_values:
     VOLKSWAGEN_STEER_WHEEL_ANGLE: 736.75
   response: 77C056218121706
