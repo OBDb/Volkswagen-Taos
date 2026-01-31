@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22028D
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ECU_T: 29
+  response: 7E90562028D1D00
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ECU_T: 38
+  response: 7E90562028D2600
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ECU_T: 63
+  response: 7E90562028D3F00

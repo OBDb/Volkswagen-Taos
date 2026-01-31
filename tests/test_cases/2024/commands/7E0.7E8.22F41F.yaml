@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
+    VOLKSWAGEN_RUNTM: 0
+  response: 7E80562F41F0000
+- expected_values:
+    VOLKSWAGEN_RUNTM: 57
+  response: 7E80562F41F0039
+- expected_values:
+    VOLKSWAGEN_RUNTM: 653
+  response: 7E80562F41F028D
+- expected_values:
     VOLKSWAGEN_RUNTM: 4881
   response: 7E80562F41F1311
 - expected_values:
