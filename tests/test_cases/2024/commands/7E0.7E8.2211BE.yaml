@@ -9,6 +9,14 @@ test_cases:
     VOLKSWAGEN_PQ35_OIL_T_2: -272.5
   response: 7E8056211BE0006
 - expected_values:
+    VOLKSWAGEN_EOT_V2: 65512
+    VOLKSWAGEN_PQ35_OIL_T_2: 6278.1
+  response: 7E8056211BEFFE8
+- expected_values:
     VOLKSWAGEN_EOT_V2: 65513
     VOLKSWAGEN_PQ35_OIL_T_2: 6278.2
   response: 7E8056211BEFFE9
+- expected_values:
+    VOLKSWAGEN_EOT_V2: 65524
+    VOLKSWAGEN_PQ35_OIL_T_2: 6279.3
+  response: 7E8056211BEFFF4
