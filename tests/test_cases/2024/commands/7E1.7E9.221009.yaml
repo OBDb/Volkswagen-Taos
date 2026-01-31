@@ -4,5 +4,11 @@ test_cases:
     VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 0
   response: '7E9056210090000'
 - expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 7
+  response: '7E9056210090700'
+- expected_values:
     VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 538
   response: 7E9056210091A02
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 114
+  response: '7E9056210097200'
