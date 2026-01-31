@@ -2,7 +2,13 @@ command_id: 7E1.7E9.223852
 test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
+  response: '7E9056238520000'
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
   response: 7E9056238520AFC
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
+  response: 7E9056238520BFC
 - expected_values:
     VOLKSWAGEN_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
   response: 7E90562385219FC
