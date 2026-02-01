@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.22100B
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_DRIVER_DEMAND_TORQUE: 1075.25
+  response: 7E90562100B5401
+- expected_values:
     VOLKSWAGEN_MQB_TCM_DRIVER_DEMAND_TORQUE: 1382.5
   response: 7E90562100B6C02
 - expected_values:
@@ -12,3 +15,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_TCM_DRIVER_DEMAND_TORQUE: -562.8
   response: 7E90562100BD408
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_DRIVER_DEMAND_TORQUE: -499.25
+  response: 7E90562100BD8FF
