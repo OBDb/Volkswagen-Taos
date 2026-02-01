@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22382E
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_1: 89.6
+  response: 7E90562382E0007
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_1: 0
+  response: 7E90562382E30F8

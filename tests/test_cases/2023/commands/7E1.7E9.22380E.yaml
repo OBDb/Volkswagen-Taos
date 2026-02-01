@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22380E
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_OUTPUT_SHAFT_1: 553
+  response: 7E90562380E2902
+- expected_values:
+    VOLKSWAGEN_MQB_OUTPUT_SHAFT_1: 447
+  response: 7E90562380EBF01
