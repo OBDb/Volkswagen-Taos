@@ -1,6 +1,12 @@
 command_id: 7E1.7E9.221091
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G2: -2.22
+  response: 7E90562109122FF
+- expected_values:
+    VOLKSWAGEN_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G2: -2.21
+  response: 7E90562109123FF
+- expected_values:
     VOLKSWAGEN_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G2: -2.05
   response: 7E90562109133FF
 - expected_values:

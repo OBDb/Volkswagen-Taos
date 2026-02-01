@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_FL_VSS: 0
   response: 77905622B1B0000
+- expected_values:
+    VOLKSWAGEN_PQ35_FL_VSS: 1
+  response: 77905622B1B000A
+- expected_values:
+    VOLKSWAGEN_PQ35_FL_VSS: 2.4
+  response: 77905622B1B0018
