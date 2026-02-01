@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22382A
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 386.4
+  response: 7E90562382A180F
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 1200
+  response: 7E90562382AE02E

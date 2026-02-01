@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22383E
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_CLUTCH_2_VALVE_I_ACTUAL: 87
+  response: 7E90562383E6603
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_CLUTCH_2_VALVE_I_ACTUAL: 404
+  response: 7E90562383EC80F
