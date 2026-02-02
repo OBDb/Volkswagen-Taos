@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_2_T: 77
   response: 7E90562102C4D00
+- expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_2_T: 79
+  response: 7E90562102C4F00
+- expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_2_T: 84
+  response: 7E90562102C5400
