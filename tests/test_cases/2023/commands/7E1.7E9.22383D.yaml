@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.22383D
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 389.6
+  response: 7E90562383D380F
+- expected_values:
     VOLKSWAGEN_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 494.8
   response: 7E90562383D5413
 - expected_values:
@@ -9,6 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 317.6
   response: 7E90562383D680C
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 346
+  response: 7E90562383D840D
 - expected_values:
     VOLKSWAGEN_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 91.2
   response: 7E90562383D9003

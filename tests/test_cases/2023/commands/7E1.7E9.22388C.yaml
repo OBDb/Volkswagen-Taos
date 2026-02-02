@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_TCM_IGNITION_CYCLES: 1992
   response: 7E90562388CC807
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_IGNITION_CYCLES: 1993
+  response: 7E90562388CC907
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_IGNITION_CYCLES: 1995
+  response: 7E90562388CCB07
