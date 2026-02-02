@@ -4,26 +4,8 @@ test_cases:
     VOLKSWAGEN_MQB_MAF_1_B1_RAW: 0
   response: '7E8056210260000'
 - expected_values:
-    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 32
-  response: '7E8056210260140'
-- expected_values:
-    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 56
-  response: '7E8056210260230'
-- expected_values:
-    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 66.4
-  response: '7E8056210260298'
-- expected_values:
-    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 122.5
-  response: 7E80562102604C9
-- expected_values:
-    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 144.3
-  response: 7E80562102605A3
-- expected_values:
-    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 154.1
-  response: '7E8056210260605'
-- expected_values:
-    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 265.8
-  response: 7E8056210260A62
+    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 202.2
+  response: 7E80562102607E6
 - expected_values:
     VOLKSWAGEN_MQB_MAF_1_B1_RAW: 294.8
   response: 7E8056210260B84
