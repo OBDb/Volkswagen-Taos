@@ -11,4 +11,7 @@ test_cases:
   response: 7E90562382E6A0B
 - expected_values:
     VOLKSWAGEN_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_1: 0
+  response: 7E90562382E82FF
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_1: 0
   response: 7E90562382EE8FE
