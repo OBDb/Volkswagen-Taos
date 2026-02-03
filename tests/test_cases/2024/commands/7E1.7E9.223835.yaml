@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 50
   response: 7E905623835F401
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 51
+  response: 7E905623835FE01

@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_SELECTED_GEAR: 4
   response: 7E8056215AA04A7
+- expected_values:
+    VOLKSWAGEN_PQ35_SELECTED_GEAR: 6
+  response: 7E8056215AA060F
