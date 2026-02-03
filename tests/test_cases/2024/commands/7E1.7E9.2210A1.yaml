@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G7: -1.71
   response: 7E9056210A155FF
+- expected_values:
+    VOLKSWAGEN_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G7: -1.68
+  response: 7E9056210A158FF
