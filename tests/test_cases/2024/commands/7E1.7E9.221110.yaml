@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_WORKING_HOURS: 624.13489
   response: 7E907621110D83CB206
+- expected_values:
+    VOLKSWAGEN_PQ35_WORKING_HOURS: 627.25819
+  response: 7E907621110EBD0BA06

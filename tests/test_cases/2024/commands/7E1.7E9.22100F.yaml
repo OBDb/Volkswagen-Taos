@@ -13,6 +13,9 @@ test_cases:
     VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE_LOSS: 18
   response: 7E90562100F6801
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE_LOSS: 20
+  response: 7E90562100F9001
+- expected_values:
     VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE_LOSS: 24
   response: 7E90562100FE001
 - expected_values:
