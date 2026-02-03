@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: -100
   response: 7E90562383930F8
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: 19.8
+  response: 7E9056238398C01

@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.221070
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_2_ADAPT_BASIC_CHAR_POINT_2_POS: 11.98
+  response: 7E905621070AE04
+- expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_2_ADAPT_BASIC_CHAR_POINT_2_POS: 11.99
   response: 7E905621070AF04
 - expected_values:
