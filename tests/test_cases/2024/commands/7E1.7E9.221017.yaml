@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.221017
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_ROAD_RESISTANCE: -4.21
+  response: 7E9046210176E
+- expected_values:
     VOLKSWAGEN_PQ35_ROAD_RESISTANCE: -3.961
   response: 7E9046210176F
 - expected_values:
