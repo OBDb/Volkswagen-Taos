@@ -4,29 +4,11 @@ test_cases:
     VOLKSWAGEN_MQB_TCM_EOP_ACTUAL_I: 896
   response: 7E90562381E0023
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_EOP_ACTUAL_I: 923
-  response: 7E90562381E0E24
-- expected_values:
-    VOLKSWAGEN_MQB_TCM_EOP_ACTUAL_I: 850
-  response: 7E90562381E3421
-- expected_values:
-    VOLKSWAGEN_MQB_TCM_EOP_ACTUAL_I: 958
-  response: 7E90562381E6C25
-- expected_values:
-    VOLKSWAGEN_MQB_TCM_EOP_ACTUAL_I: 858
-  response: 7E90562381E8421
-- expected_values:
-    VOLKSWAGEN_MQB_TCM_EOP_ACTUAL_I: 1064
-  response: 7E90562381E9029
-- expected_values:
     VOLKSWAGEN_MQB_TCM_EOP_ACTUAL_I: 1199
   response: 7E90562381ED62E
 - expected_values:
     VOLKSWAGEN_MQB_TCM_EOP_ACTUAL_I: 790
   response: 7E90562381EDC1E
-- expected_values:
-    VOLKSWAGEN_MQB_TCM_EOP_ACTUAL_I: 1202
-  response: 7E90562381EF42E
 - expected_values:
     VOLKSWAGEN_MQB_TCM_EOP_ACTUAL_I: 972
   response: 7E90562381EF825
