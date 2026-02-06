@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_MQB_TCM_DRIVER_DEMAND_TORQUE: 512
   response: 7E90562100B2800
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_DRIVER_DEMAND_TORQUE: 921.75
+  response: 7E90562100B4803
+- expected_values:
     VOLKSWAGEN_MQB_TCM_DRIVER_DEMAND_TORQUE: 1190.3
   response: 7E90562100B5CFE
 - expected_values:
