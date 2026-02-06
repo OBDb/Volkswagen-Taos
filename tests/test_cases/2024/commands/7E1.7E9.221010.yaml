@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_MQB_TCM_CONVERTER_LOSS_TORQUE: 384
   response: 7E9056210101E00
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_CONVERTER_LOSS_TORQUE: 486.45
+  response: '7E9056210102601'
+- expected_values:
     VOLKSWAGEN_MQB_TCM_CONVERTER_LOSS_TORQUE: 499.2
   response: '7E9056210102700'
 - expected_values:
