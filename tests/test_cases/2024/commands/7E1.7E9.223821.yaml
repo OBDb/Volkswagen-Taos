@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_MQB_TCM_TRANSMISSION_PART_1_P_ACTUAL: 0.24
   response: '7E9056238211800'
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_TRANSMISSION_PART_1_P_ACTUAL: 8.35
+  response: '7E9056238214303'
+- expected_values:
     VOLKSWAGEN_MQB_TCM_TRANSMISSION_PART_1_P_ACTUAL: 1.23
   response: 7E9056238217B00
 - expected_values:
