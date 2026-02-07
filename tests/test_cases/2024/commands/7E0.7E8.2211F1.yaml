@@ -4,29 +4,8 @@ test_cases:
     VOLKSWAGEN_PQ35_TRANS_IN_SPD: 1529
   response: 7E8056211F10BF2
 - expected_values:
-    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 1765
-  response: 7E8056211F10DCA
-- expected_values:
-    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 2032
-  response: 7E8056211F10FE0
-- expected_values:
-    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 2135
-  response: 7E8056211F110AE
-- expected_values:
     VOLKSWAGEN_PQ35_TRANS_IN_SPD: 2573.5
   response: 7E8056211F1141B
-- expected_values:
-    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 2873
-  response: 7E8056211F11672
-- expected_values:
-    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 3161
-  response: 7E8056211F118B2
-- expected_values:
-    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 6246.5
-  response: 7E8056211F130CD
-- expected_values:
-    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 6347
-  response: 7E8056211F13196
 - expected_values:
     VOLKSWAGEN_PQ35_TRANS_IN_SPD: 8932
   response: 7E8056211F145C8

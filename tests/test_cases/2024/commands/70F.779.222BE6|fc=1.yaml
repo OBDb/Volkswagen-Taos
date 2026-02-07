@@ -7,26 +7,5 @@ test_cases:
     VOLKSWAGEN_PQ35_HAL_I: 0.732
   response: 77905622BE602DC
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_I: 1.048
-  response: 77905622BE60418
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_I: 1.097
-  response: 77905622BE60449
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_I: 1.488
-  response: 77905622BE605D0
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_I: 1.537
-  response: 77905622BE60601
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_I: 1.732
-  response: 77905622BE606C4
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_I: 1.927
-  response: 77905622BE60787
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_I: 5.787
-  response: 77905622BE6169B
-- expected_values:
     VOLKSWAGEN_PQ35_HAL_I: 8.498
   response: 77905622BE62132
