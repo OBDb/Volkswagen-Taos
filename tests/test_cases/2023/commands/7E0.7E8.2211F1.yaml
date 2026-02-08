@@ -4,11 +4,11 @@ test_cases:
     VOLKSWAGEN_PQ35_TRANS_IN_SPD: 1385
   response: 7E8056211F10AD2
 - expected_values:
-    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 1667.5
-  response: 7E8056211F10D07
-- expected_values:
     VOLKSWAGEN_PQ35_TRANS_IN_SPD: 7806.5
   response: 7E8056211F13CFD
+- expected_values:
+    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 8833
+  response: 7E8056211F14502
 - expected_values:
     VOLKSWAGEN_PQ35_TRANS_IN_SPD: 10250.5
   response: 7E8056211F15015
