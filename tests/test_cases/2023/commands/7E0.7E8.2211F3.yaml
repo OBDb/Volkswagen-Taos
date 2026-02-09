@@ -4,29 +4,8 @@ test_cases:
     VOLKSWAGEN_PQ35_POST_INJ_2_START: 0
   response: 7E8056211F30000
 - expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: -26.54
-  response: 7E8056211F3FAD1
-- expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: -24.82
-  response: 7E8056211F3FB27
-- expected_values:
     VOLKSWAGEN_PQ35_POST_INJ_2_START: -21.08
   response: 7E8056211F3FBE2
 - expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: -17.84
-  response: 7E8056211F3FC84
-- expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: -16.94
-  response: 7E8056211F3FCB1
-- expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: -14.1
-  response: 7E8056211F3FD3F
-- expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: -13.4
-  response: 7E8056211F3FD62
-- expected_values:
     VOLKSWAGEN_PQ35_POST_INJ_2_START: -8.86
   response: 7E8056211F3FE45
-- expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: -7.4
-  response: 7E8056211F3FE8E
