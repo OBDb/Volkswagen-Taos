@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_HAL_DUTY: 19.29063
   response: 77904622BF331
+- expected_values:
+    VOLKSWAGEN_PQ35_HAL_DUTY: 29.13278
+  response: 77904622BF34A

@@ -25,5 +25,8 @@ test_cases:
     VOLKSWAGEN_PQ35_CLUTCH_1_ACTUAL_P: 3.02
   response: 7E9056238EB2E01
 - expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_1_ACTUAL_P: 4.74
+  response: 7E9056238EBDA01
+- expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_1_ACTUAL_P: 2.36
   response: 7E9056238EBEC00

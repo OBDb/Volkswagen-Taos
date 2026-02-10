@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_PQ35_HAL_V: 0
   response: 77904622BE900
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_V: 3.9
-  response: 77904622BE927
+    VOLKSWAGEN_PQ35_HAL_V: 4.4
+  response: 77904622BE92C
