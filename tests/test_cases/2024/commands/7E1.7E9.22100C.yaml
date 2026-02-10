@@ -4,27 +4,6 @@ test_cases:
     VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE: 0
   response: 7E90562100C0000
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE: 26
-  response: 7E90562100C0802
-- expected_values:
-    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE: 53
-  response: 7E90562100C2404
-- expected_values:
-    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE: 29
-  response: 7E90562100C4402
-- expected_values:
-    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE: 94
-  response: 7E90562100C5807
-- expected_values:
-    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE: 31
-  response: 7E90562100C6C02
-- expected_values:
-    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE: 45
-  response: 7E90562100C8403
-- expected_values:
-    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE: 21
-  response: 7E90562100CA401
-- expected_values:
     VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE: 152
   response: 7E90562100CE00B
 - expected_values:

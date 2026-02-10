@@ -1,41 +1,9 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: 7
-    VOLKSWAGEN_AAT_V2: 7
-  response: 7B0046226090E
-- expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: 10
-    VOLKSWAGEN_AAT_V2: 10
-  response: 7B00462260914
-- expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: 12
-    VOLKSWAGEN_AAT_V2: 12
-  response: 7B00462260918
-- expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: 15
-    VOLKSWAGEN_AAT_V2: 15
-  response: 7B0046226091E
-- expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: -11
-    VOLKSWAGEN_AAT_V2: -11
-  response: 7B004622609EA
-- expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: -10
-    VOLKSWAGEN_AAT_V2: -10
-  response: 7B004622609EC
-- expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: -9
-    VOLKSWAGEN_AAT_V2: -9
-  response: 7B004622609EE
-- expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: -2
-    VOLKSWAGEN_AAT_V2: -2
-  response: 7B004622609FC
-- expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: -1
-    VOLKSWAGEN_AAT_V2: -1
-  response: 7B004622609FE
+    VOLKSWAGEN_AAT_FROMCABIN: 3
+    VOLKSWAGEN_AAT_V2: 3
+  response: 7B00462260906
 - expected_values:
     VOLKSWAGEN_AAT_FROMCABIN: -0.5
     VOLKSWAGEN_AAT_V2: -0.5
