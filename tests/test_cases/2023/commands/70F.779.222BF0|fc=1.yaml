@@ -13,5 +13,8 @@ test_cases:
     VOLKSWAGEN_PQ35_HAL_F_R_VSS_DIFF: 0.3
   response: 77905622BF00003
 - expected_values:
+    VOLKSWAGEN_PQ35_HAL_F_R_VSS_DIFF: 0.5
+  response: 77905622BF00005
+- expected_values:
     VOLKSWAGEN_PQ35_HAL_F_R_VSS_DIFF: 0.9
   response: 77905622BF00009
