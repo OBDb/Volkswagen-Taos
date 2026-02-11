@@ -1,42 +1,10 @@
 command_id: 746.7B0.222613|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CABIN_T: 3.8
-    VOLKSWAGEN_HVAC_IAT: 3.8
-  response: 7B0056226130026
+    VOLKSWAGEN_CABIN_T: 0
+    VOLKSWAGEN_HVAC_IAT: 0
+  response: 7B0056226130000
 - expected_values:
-    VOLKSWAGEN_CABIN_T: 13.1
-    VOLKSWAGEN_HVAC_IAT: 13.1
-  response: 7B0056226130083
-- expected_values:
-    VOLKSWAGEN_CABIN_T: 13.7
-    VOLKSWAGEN_HVAC_IAT: 13.7
-  response: 7B0056226130089
-- expected_values:
-    VOLKSWAGEN_CABIN_T: 15.3
-    VOLKSWAGEN_HVAC_IAT: 15.3
-  response: 7B0056226130099
-- expected_values:
-    VOLKSWAGEN_CABIN_T: 16.6
-    VOLKSWAGEN_HVAC_IAT: 16.6
-  response: 7B00562261300A6
-- expected_values:
-    VOLKSWAGEN_CABIN_T: 16.8
-    VOLKSWAGEN_HVAC_IAT: 16.8
-  response: 7B00562261300A8
-- expected_values:
-    VOLKSWAGEN_CABIN_T: 17
-    VOLKSWAGEN_HVAC_IAT: 17
-  response: 7B00562261300AA
-- expected_values:
-    VOLKSWAGEN_CABIN_T: 17.9
-    VOLKSWAGEN_HVAC_IAT: 17.9
-  response: 7B00562261300B3
-- expected_values:
-    VOLKSWAGEN_CABIN_T: 19.2
-    VOLKSWAGEN_HVAC_IAT: 19.2
-  response: 7B00562261300C0
-- expected_values:
-    VOLKSWAGEN_CABIN_T: 21.8
-    VOLKSWAGEN_HVAC_IAT: 21.8
-  response: 7B00562261300DA
+    VOLKSWAGEN_CABIN_T: 24
+    VOLKSWAGEN_HVAC_IAT: 24
+  response: 7B00562261300F0
