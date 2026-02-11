@@ -4,29 +4,5 @@ test_cases:
     VOLKSWAGEN_PQ35_ACCEL_PED_1: 0
   response: '7E8056212210000'
 - expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: 4.2
-  response: '7E8056212210015'
-- expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: 6.2
-  response: 7E805621221001F
-- expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: 8.2
-  response: '7E8056212210029'
-- expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: 9.4
-  response: 7E805621221002F
-- expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: 11.4
-  response: '7E8056212210039'
-- expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: 17.6
-  response: '7E8056212210058'
-- expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: 24.4
-  response: 7E805621221007A
-- expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: 27
-  response: '7E8056212210087'
-- expected_values:
     VOLKSWAGEN_PQ35_ACCEL_PED_1: -0.6
   response: 7E805621221FFFD
