@@ -16,6 +16,9 @@ test_cases:
     VOLKSWAGEN_PQ35_CAMS_END: 37.4
   response: 7E80562134100BB
 - expected_values:
+    VOLKSWAGEN_PQ35_CAMS_END: 60
+  response: 7E805621341012C
+- expected_values:
     VOLKSWAGEN_PQ35_CAMS_END: -90
   response: 7E805621341FE3E
 - expected_values:

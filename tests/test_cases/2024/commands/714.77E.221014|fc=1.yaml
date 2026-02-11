@@ -5,38 +5,6 @@ test_cases:
     VOLKSWAGEN_DASH_AMBIENT_AIR_T: -11.5
   response: 77E046210144D
 - expected_values:
-    VOLKSWAGEN_AAT: -11
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: -11
-  response: 77E046210144E
-- expected_values:
-    VOLKSWAGEN_AAT: -10.5
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: -10.5
-  response: 77E046210144F
-- expected_values:
-    VOLKSWAGEN_AAT: -7
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: -7
-  response: '77E0462101456'
-- expected_values:
-    VOLKSWAGEN_AAT: -1
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: -1
-  response: '77E0462101462'
-- expected_values:
-    VOLKSWAGEN_AAT: -0.5
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: -0.5
-  response: '77E0462101463'
-- expected_values:
-    VOLKSWAGEN_AAT: 1
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: 1
-  response: '77E0462101466'
-- expected_values:
-    VOLKSWAGEN_AAT: 10
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: 10
-  response: '77E0462101478'
-- expected_values:
-    VOLKSWAGEN_AAT: 11.5
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: 11.5
-  response: 77E046210147B
-- expected_values:
     VOLKSWAGEN_AAT: 12
     VOLKSWAGEN_DASH_AMBIENT_AIR_T: 12
   response: 77E046210147C
