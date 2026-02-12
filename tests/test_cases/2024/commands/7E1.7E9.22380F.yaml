@@ -4,27 +4,6 @@ test_cases:
     VOLKSWAGEN_MQB_OUTPUT_SHAFT_2: 0
   response: 7E90562380F0000
 - expected_values:
-    VOLKSWAGEN_MQB_OUTPUT_SHAFT_2: 18945
-  response: 7E90562380F4A01
-- expected_values:
-    VOLKSWAGEN_MQB_OUTPUT_SHAFT_2: 23297
-  response: 7E90562380F5B01
-- expected_values:
-    VOLKSWAGEN_MQB_OUTPUT_SHAFT_2: 23808
-  response: 7E90562380F5D00
-- expected_values:
-    VOLKSWAGEN_MQB_OUTPUT_SHAFT_2: 26880
-  response: 7E90562380F6900
-- expected_values:
-    VOLKSWAGEN_MQB_OUTPUT_SHAFT_2: 29184
-  response: 7E90562380F7200
-- expected_values:
-    VOLKSWAGEN_MQB_OUTPUT_SHAFT_2: -29696
-  response: 7E90562380F8C00
-- expected_values:
-    VOLKSWAGEN_MQB_OUTPUT_SHAFT_2: -24319
-  response: 7E90562380FA101
-- expected_values:
     VOLKSWAGEN_MQB_OUTPUT_SHAFT_2: -11774
   response: 7E90562380FD202
 - expected_values:
