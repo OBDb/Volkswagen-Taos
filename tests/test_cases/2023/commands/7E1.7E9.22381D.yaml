@@ -7,5 +7,8 @@ test_cases:
     VOLKSWAGEN_MQB_TCM_EOP_ACTUAL: 0.16
   response: 7E90562381D1000
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_EOP_ACTUAL: 15
+  response: 7E90562381DDC05
+- expected_values:
     VOLKSWAGEN_MQB_TCM_EOP_ACTUAL: 7.67
   response: 7E90562381DFF02
