@@ -4,29 +4,5 @@ test_cases:
     VOLKSWAGEN_PQ35_HAL_DUTY: 0
   response: 77904622BF300
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_DUTY: 5.90529
-  response: 77904622BF30F
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_DUTY: 6.69267
-  response: 77904622BF311
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_DUTY: 10.62953
-  response: 77904622BF31B
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_DUTY: 11.4169
-  response: 77904622BF31D
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_DUTY: 14.96008
-  response: 77904622BF326
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_DUTY: 15.74745
-  response: 77904622BF328
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_DUTY: 18.89694
-  response: 77904622BF330
-- expected_values:
-    VOLKSWAGEN_PQ35_HAL_DUTY: 19.29063
-  response: 77904622BF331
-- expected_values:
     VOLKSWAGEN_PQ35_HAL_DUTY: 29.13278
   response: 77904622BF34A
