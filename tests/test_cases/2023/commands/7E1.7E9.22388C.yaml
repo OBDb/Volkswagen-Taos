@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.22388C
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_IGNITION_CYCLES: 2048
+  response: 7E90562388C0008
+- expected_values:
     VOLKSWAGEN_MQB_TCM_IGNITION_CYCLES: 1987
   response: 7E90562388CC307
 - expected_values:
