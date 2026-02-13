@@ -22,5 +22,8 @@ test_cases:
     VOLKSWAGEN_MQB_MAF_1_B1_RAW: 129.1
   response: 7E805621026050B
 - expected_values:
+    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 130.1
+  response: '7E8056210260515'
+- expected_values:
     VOLKSWAGEN_MQB_MAF_1_B1_RAW: 242.8
   response: 7E805621026097C
