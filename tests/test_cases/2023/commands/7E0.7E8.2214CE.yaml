@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2214CE
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_POST_INJ_3_ACTIVATION_DURATION: 0.6248
+  response: 7E8056214CE061A
+- expected_values:
     VOLKSWAGEN_PQ35_POST_INJ_3_ACTIVATION_DURATION: 0.6312
   response: 7E8056214CE062A
 - expected_values:
