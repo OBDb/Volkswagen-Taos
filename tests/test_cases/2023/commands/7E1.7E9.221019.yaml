@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_DRIVING_STRATEGY_SPORT_FACTOR: 6.66667
   response: '7E90462101901'
+- expected_values:
+    VOLKSWAGEN_PQ35_DRIVING_STRATEGY_SPORT_FACTOR: 13.33333
+  response: '7E90462101902'
