@@ -10,11 +10,11 @@ test_cases:
     VOLKSWAGEN_ODO_HD: 34403.614
   response: 7E807621160020CF51E
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 43847.264
-  response: 7E807621160029D0E60
-- expected_values:
     VOLKSWAGEN_ODO_HD: 44234.226
   response: 7E80762116002A2F5F2
+- expected_values:
+    VOLKSWAGEN_ODO_HD: 44302.573
+  response: 7E80762116002A400ED
 - expected_values:
     VOLKSWAGEN_ODO_HD: 47816.925
   response: 7E80762116002D9A0DD
