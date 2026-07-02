@@ -1,0 +1,5 @@
+command_id: 7E1.223887
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ODO_2: 115133644.8
+  response: 7E9076238870000A044
