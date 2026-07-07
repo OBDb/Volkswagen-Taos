@@ -11,3 +11,7 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ATF_T: 100
   response: 7E9046221048C
+- expected_values:
+    VOLKSWAGEN_ATF_T: -3
+    VOLKSWAGEN_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 37
+  response: '7E9056221042500'

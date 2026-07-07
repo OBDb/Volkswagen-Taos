@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22380A
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_TRANSMISSION_INPUT_SPD_7E1_380A: 928
+  response: 7E90562380AA003
