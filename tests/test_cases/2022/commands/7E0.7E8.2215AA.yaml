@@ -2,10 +2,13 @@ command_id: 7E0.7E8.2215AA
 test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_SELECTED_GEAR: 1
-  response: 7E8056215AA01ED
-- expected_values:
-    VOLKSWAGEN_PQ35_SELECTED_GEAR: 1
-  response: 7E8056215AA01F9
+  response: 7E8056215AA01AD
 - expected_values:
     VOLKSWAGEN_PQ35_SELECTED_GEAR: 1
   response: 7E8056215AA01FB
+- expected_values:
+    VOLKSWAGEN_PQ35_SELECTED_GEAR: 2
+  response: 7E8056215AA0207
+- expected_values:
+    VOLKSWAGEN_PQ35_SELECTED_GEAR: 13
+  response: 7E8056215AA0DF7

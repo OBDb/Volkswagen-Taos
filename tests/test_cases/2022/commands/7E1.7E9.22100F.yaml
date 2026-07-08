@@ -1,5 +1,20 @@
 command_id: 7E1.7E9.22100F
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE_LOSS: 13
+  response: 7E90562100F0401
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE_LOSS: 26
+  response: 7E90562100F0802
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE_LOSS: 31
+  response: 7E90562100F6C02
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE_LOSS: 21
+  response: 7E90562100FA401
+- expected_values:
     VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE_LOSS: 22
   response: 7E90562100FB801
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE_LOSS: 23
+  response: 7E90562100FCC01
