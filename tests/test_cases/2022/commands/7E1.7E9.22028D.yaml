@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_TCM_ECU_T: 35
   response: 7E90562028D2300
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ECU_T: 52
+  response: 7E90562028D3400
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ECU_T: 79
+  response: 7E90562028D4F00
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ECU_T: 82
+  response: 7E90562028D5200
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ECU_T: 83
+  response: 7E90562028D5300
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ECU_T: 86
+  response: 7E90562028D5600
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ECU_T: 87
+  response: 7E90562028D5700
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ECU_T: 90
+  response: 7E90562028D5A00
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ECU_T: 91
+  response: 7E90562028D5B00
