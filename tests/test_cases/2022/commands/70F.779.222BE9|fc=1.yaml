@@ -1,11 +1,17 @@
 command_id: 70F.779.222BE9|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_V: 0
+    TAOS_PQ35_HAL_V: 0
   response: 77904622BE900
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_V: 1.6
+    TAOS_PQ35_HAL_V: 1.6
   response: 77904622BE910
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_V: 1.7
+    TAOS_PQ35_HAL_V: 1.7
   response: 77904622BE911
+- expected_values:
+    TAOS_PQ35_HAL_V: 1.9
+  response: 77904622BE913
+- expected_values:
+    TAOS_PQ35_HAL_V: 2.7
+  response: 77904622BE91B

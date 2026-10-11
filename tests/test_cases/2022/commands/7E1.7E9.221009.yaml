@@ -1,8 +1,32 @@
 command_id: 7E1.7E9.221009
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 0
+    TAOS_MQB_DQ250_SPD_OUTPUT: 0
   response: '7E9056210090000'
 - expected_values:
-    VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 476
+    TAOS_MQB_DQ250_SPD_OUTPUT: 274
+  response: '7E9056210091201'
+- expected_values:
+    TAOS_MQB_DQ250_SPD_OUTPUT: 22
+  response: '7E9056210091600'
+- expected_values:
+    TAOS_MQB_DQ250_SPD_OUTPUT: 281
+  response: '7E9056210091901'
+- expected_values:
+    TAOS_MQB_DQ250_SPD_OUTPUT: 82
+  response: '7E9056210095200'
+- expected_values:
+    TAOS_MQB_DQ250_SPD_OUTPUT: 347
+  response: 7E9056210095B01
+- expected_values:
+    TAOS_MQB_DQ250_SPD_OUTPUT: 354
+  response: '7E9056210096201'
+- expected_values:
+    TAOS_MQB_DQ250_SPD_OUTPUT: 158
+  response: 7E9056210099E00
+- expected_values:
+    TAOS_MQB_DQ250_SPD_OUTPUT: 163
+  response: 7E905621009A300
+- expected_values:
+    TAOS_MQB_DQ250_SPD_OUTPUT: 476
   response: 7E905621009DC01

@@ -1,0 +1,11 @@
+command_id: 7E1.222104
+test_cases:
+- expected_values:
+    TAOS_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: -40
+  response: '7E9056221040000'
+- expected_values:
+    TAOS_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 204
+  response: 7E905622104F4FF
+- expected_values:
+    TAOS_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 215
+  response: 7E905622104FFFF

@@ -1,6 +1,5 @@
 command_id: 712.77C.221812|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_SWA: 777.81
-    VOLKSWAGEN_STEER_WHEEL_ANGLE: 777.75
+    TAOS_MQB_SWA: 777.81
   response: 77C05621812184E

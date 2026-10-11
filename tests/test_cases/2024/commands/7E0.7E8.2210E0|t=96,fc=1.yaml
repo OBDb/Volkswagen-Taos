@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210E0|t=96,fc=1
+test_cases:
+- expected_values:
+    TAOS_ODO: 33712
+  response: 7E8076210E0000083B0
+- expected_values:
+    TAOS_ODO: 33796
+  response: 7E8076210E000008404
+- expected_values:
+    TAOS_ODO: 34556
+  response: 7E8076210E0000086FC
+- expected_values:
+    TAOS_ODO: 47909
+  response: 7E8076210E00000BB25

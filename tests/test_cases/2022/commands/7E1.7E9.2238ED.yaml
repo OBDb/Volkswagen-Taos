@@ -1,8 +1,23 @@
 command_id: 7E1.7E9.2238ED
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_CLUTCH_2_CMD_P: 0
+    TAOS_PQ35_CLUTCH_2_CMD_P: 0
   response: 7E9056238ED0000
 - expected_values:
-    VOLKSWAGEN_PQ35_CLUTCH_2_CMD_P: 3.75
+    TAOS_PQ35_CLUTCH_2_CMD_P: 2.86
+  response: 7E9056238ED1E01
+- expected_values:
+    TAOS_PQ35_CLUTCH_2_CMD_P: 3.02
+  response: 7E9056238ED2E01
+- expected_values:
+    TAOS_PQ35_CLUTCH_2_CMD_P: 3.73
+  response: 7E9056238ED7501
+- expected_values:
+    TAOS_PQ35_CLUTCH_2_CMD_P: 3.75
   response: 7E9056238ED7701
+- expected_values:
+    TAOS_PQ35_CLUTCH_2_CMD_P: 1.58
+  response: 7E9056238ED9E00
+- expected_values:
+    TAOS_PQ35_CLUTCH_2_CMD_P: 1.97
+  response: 7E9056238EDC500

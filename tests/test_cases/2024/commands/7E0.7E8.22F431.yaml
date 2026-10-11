@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CLR_DIST: 33655
+    TAOS_CLR_DIST: 33655
   response: 7E80562F4318377
 - expected_values:
-    VOLKSWAGEN_CLR_DIST: 34300
+    TAOS_CLR_DIST: 34300
   response: 7E80562F43185FC
 - expected_values:
-    VOLKSWAGEN_CLR_DIST: 43787
+    TAOS_CLR_DIST: 43787
   response: 7E80562F431AB0B
 - expected_values:
-    VOLKSWAGEN_CLR_DIST: 47842
+    TAOS_CLR_DIST: 47842
   response: 7E80562F431BAE2

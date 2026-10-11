@@ -1,0 +1,20 @@
+command_id: 7E1.223841
+test_cases:
+- expected_values:
+    TAOS_MQB_TCM_ODO: 13286.4
+  response: '7E90762384100020700'
+- expected_values:
+    TAOS_MQB_TCM_ODO: 963532.8
+  response: '7E90762384100930600'
+- expected_values:
+    TAOS_MQB_TCM_ODO: 3355622.4
+  response: '7E90762384102000700'
+- expected_values:
+    TAOS_MQB_TCM_ODO: 3506457.6
+  response: 7E90762384102170B00
+- expected_values:
+    TAOS_MQB_TCM_ODO: 5026764.8
+  response: 7E90762384102FF0600
+- expected_values:
+    TAOS_MQB_TCM_ODO: 427819187.2
+  response: 7E907623841FF000700

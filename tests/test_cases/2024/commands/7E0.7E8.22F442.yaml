@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
-    VOLKSWAGEN_VPWR: 12.14
+    TAOS_VPWR: 12.14
   response: 7E80562F4422F6C
 - expected_values:
-    VOLKSWAGEN_VPWR: 13.28
+    TAOS_VPWR: 13.28
   response: 7E80562F44233E0
 - expected_values:
-    VOLKSWAGEN_VPWR: 14.6
+    TAOS_VPWR: 14.6
   response: 7E80562F4423908

@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.221002
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 0
+    TAOS_AC_COMP_T: 0
   response: '7E8056210020000'
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 1.4
+    TAOS_AC_COMP_T: 1.4
   response: 7E805621002000E
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 3.6
+    TAOS_AC_COMP_T: 3.6
   response: '7E8056210020024'
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 6.1
+    TAOS_AC_COMP_T: 6.1
   response: 7E805621002003D
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 7.6
+    TAOS_AC_COMP_T: 7.6
   response: 7E805621002004C
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 8.3
+    TAOS_AC_COMP_T: 8.3
   response: '7E8056210020053'
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 8.5
+    TAOS_AC_COMP_T: 8.5
   response: '7E8056210020055'
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 9.5
+    TAOS_AC_COMP_T: 9.5
   response: 7E805621002005F
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 12.1
+    TAOS_AC_COMP_T: 12.1
   response: '7E8056210020079'

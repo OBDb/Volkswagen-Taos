@@ -1,8 +1,14 @@
 command_id: 7E1.7E9.22380E
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_OUTPUT_SHAFT_1: 0
+    TAOS_MQB_OUTPUT_SHAFT_1: 0
   response: 7E90562380E0000
 - expected_values:
-    VOLKSWAGEN_MQB_OUTPUT_SHAFT_1: 158
+    TAOS_MQB_OUTPUT_SHAFT_1: 158
   response: 7E90562380E9E00
+- expected_values:
+    TAOS_MQB_OUTPUT_SHAFT_1: 188
+  response: 7E90562380EBC00
+- expected_values:
+    TAOS_MQB_OUTPUT_SHAFT_1: 203
+  response: 7E90562380ECB00

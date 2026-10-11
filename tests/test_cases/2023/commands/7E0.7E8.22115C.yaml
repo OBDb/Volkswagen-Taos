@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22115C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 0
+    TAOS_PQ35_SRV_REGEN_STAT: 0
   response: 7E80562115C0014
 - expected_values:
-    VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 4
+    TAOS_PQ35_SRV_REGEN_STAT: 4
   response: 7E80562115C04F6
 - expected_values:
-    VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 7
+    TAOS_PQ35_SRV_REGEN_STAT: 7
   response: 7E80562115C0708
 - expected_values:
-    VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 39
+    TAOS_PQ35_SRV_REGEN_STAT: 39
   response: 7E80562115C2710

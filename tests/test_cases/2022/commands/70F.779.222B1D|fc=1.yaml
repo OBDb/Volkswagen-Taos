@@ -1,8 +1,11 @@
 command_id: 70F.779.222B1D|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_RL_VSS: 0
+    TAOS_PQ35_RL_VSS: 0
   response: 77905622B1D0000
 - expected_values:
-    VOLKSWAGEN_PQ35_RL_VSS: 3.4
-  response: 77905622B1D0022
+    TAOS_PQ35_RL_VSS: 49
+  response: 77905622B1D01EA
+- expected_values:
+    TAOS_PQ35_RL_VSS: 57.2
+  response: 77905622B1D023C

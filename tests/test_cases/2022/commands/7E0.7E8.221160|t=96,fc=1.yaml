@@ -1,33 +1,36 @@
-command_id: 7E0.7E8.221160
+command_id: 7E0.7E8.221160|t=96,fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 41061.989
+    TAOS_ODO_HD: 41061989
   response: |-
     2211601
     7E80762116002728E65
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 41066.449
+    TAOS_ODO_HD: 41066449
   response: |-
     2211601
     7E80762116002729FD1
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 41016.298
+    TAOS_ODO_HD: 41016298
   response: 7E8076211600271DBEA
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 41061.633
+    TAOS_ODO_HD: 41061633
   response: 7E80762116002728D01
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 41470.207
+    TAOS_ODO_HD: 41470207
   response: 7E8076211600278C8FF
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 48824.261
+    TAOS_ODO_HD: 48824261
   response: 7E80762116002E8FFC5
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 48824.395
+    TAOS_ODO_HD: 48824395
   response: 7E80762116002E9004B
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 49158.118
+    TAOS_ODO_HD: 49158118
   response: 7E80762116002EE17E6
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 102160.833
+    TAOS_ODO_HD: 102160833
   response: 7E8076211600616D9C1
+- expected_values:
+    TAOS_ODO_HD: 130818477
+  response: 7E80762116007CC21AD

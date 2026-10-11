@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 278.7
+    TAOS_ENG_CTRL_MODULE_T: 278.7
   response: 7E80562028D0AE3
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 283
+    TAOS_ENG_CTRL_MODULE_T: 283
   response: 7E80562028D0B0E
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 306.7
+    TAOS_ENG_CTRL_MODULE_T: 306.7
   response: 7E80562028D0BFB
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 311.3
+    TAOS_ENG_CTRL_MODULE_T: 311.3
   response: 7E80562028D0C29

@@ -1,0 +1,11 @@
+command_id: 7E0.2211BE
+test_cases:
+- expected_values:
+    TAOS_PQ35_OIL_T_2: -273.1
+  response: 7E8056211BE0000
+- expected_values:
+    TAOS_PQ35_OIL_T_2: 6277.8
+  response: 7E8056211BEFFE5
+- expected_values:
+    TAOS_PQ35_OIL_T_2: 6280
+  response: 7E8056211BEFFFB

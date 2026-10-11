@@ -1,0 +1,11 @@
+command_id: 7E0.2211BD
+test_cases:
+- expected_values:
+    TAOS_PQ35_OIL_LVL_CRIT: 13.876
+  response: 7E8056211BD0D8D
+- expected_values:
+    TAOS_PQ35_OIL_LVL_CRIT: 13.968
+  response: 7E8056211BD0DA4
+- expected_values:
+    TAOS_PQ35_OIL_LVL_CRIT: 14.02
+  response: 7E8056211BD0DB1

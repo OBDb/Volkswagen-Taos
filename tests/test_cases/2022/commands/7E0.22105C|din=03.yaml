@@ -1,20 +1,11 @@
 command_id: 7E0.22105C|din=03
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_GEN_LOAD: 0
+    TAOS_PQ35_GEN_LOAD: 0
   response: 7E80562105C0000
 - expected_values:
-    VOLKSWAGEN_PQ35_GEN_LOAD: 0.03
-  response: 7E80562105C0003
+    TAOS_PQ35_GEN_LOAD: 2.43
+  response: 7E80562105C00F3
 - expected_values:
-    VOLKSWAGEN_PQ35_GEN_LOAD: 0.21
-  response: 7E80562105C0015
-- expected_values:
-    VOLKSWAGEN_PQ35_GEN_LOAD: 1.05
-  response: 7E80562105C0069
-- expected_values:
-    VOLKSWAGEN_PQ35_GEN_LOAD: 1.17
-  response: 7E80562105C0075
-- expected_values:
-    VOLKSWAGEN_PQ35_GEN_LOAD: 1.41
-  response: 7E80562105C008D
+    TAOS_PQ35_GEN_LOAD: 2.61
+  response: 7E80562105C0105

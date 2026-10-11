@@ -1,8 +1,8 @@
 command_id: 746.7B0.222607|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CLIMATE_RAD_FAN_CMD_DUTY: 26.4
-  response: 7B00462260742
+    TAOS_CLIMATE_RAD_FAN_CMD_DUTY: 0
+  response: 7B00462260700
 - expected_values:
-    VOLKSWAGEN_CLIMATE_RAD_FAN_CMD_DUTY: 54
-  response: 7B00462260787
+    TAOS_CLIMATE_RAD_FAN_CMD_DUTY: 64.8
+  response: 7B004622607A2

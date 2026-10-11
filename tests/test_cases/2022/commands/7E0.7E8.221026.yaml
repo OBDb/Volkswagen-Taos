@@ -1,11 +1,20 @@
 command_id: 7E0.7E8.221026
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 0
+    TAOS_MQB_MAF_1_B1_RAW: 0
   response: '7E8056210260000'
 - expected_values:
-    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 35.8
+    TAOS_MQB_MAF_1_B1_RAW: 35.8
   response: '7E8056210260166'
 - expected_values:
-    VOLKSWAGEN_MQB_MAF_1_B1_RAW: 53.8
+    TAOS_MQB_MAF_1_B1_RAW: 53.8
   response: 7E805621026021A
+- expected_values:
+    TAOS_MQB_MAF_1_B1_RAW: 80.7
+  response: '7E8056210260327'
+- expected_values:
+    TAOS_MQB_MAF_1_B1_RAW: 86.8
+  response: '7E8056210260364'
+- expected_values:
+    TAOS_MQB_MAF_1_B1_RAW: 164.3
+  response: 7E805621026066B

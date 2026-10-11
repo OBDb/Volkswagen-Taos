@@ -1,24 +1,24 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    VOLKSWAGEN_RUNTM: 685
+    TAOS_RUNTM: 685
   response: |-
     22F41F1
     7E80562F41F02AD
 - expected_values:
-    VOLKSWAGEN_RUNTM: 1876
+    TAOS_RUNTM: 1876
   response: |-
     22F41F1
     7E80562F41F0754
 - expected_values:
-    VOLKSWAGEN_RUNTM: 6
+    TAOS_RUNTM: 6
   response: 7E80562F41F0006
 - expected_values:
-    VOLKSWAGEN_RUNTM: 511
+    TAOS_RUNTM: 511
   response: 7E80562F41F01FF
 - expected_values:
-    VOLKSWAGEN_RUNTM: 4864
+    TAOS_RUNTM: 4864
   response: 7E80562F41F1300
 - expected_values:
-    VOLKSWAGEN_RUNTM: 5520
+    TAOS_RUNTM: 5520
   response: 7E80562F41F1590

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221004
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_V3: 0.14062
+    TAOS_AAT_V2: 0.14062
   response: '7E8056210040012'
 - expected_values:
-    VOLKSWAGEN_AAT_V3: 1.96094
+    TAOS_AAT_V2: 1.96094
   response: 7E80562100400FB
 - expected_values:
-    VOLKSWAGEN_AAT_V3: 2.00781
+    TAOS_AAT_V2: 2.00781
   response: '7E8056210040101'
 - expected_values:
-    VOLKSWAGEN_AAT_V3: -1.73438
+    TAOS_AAT_V2: -1.73438
   response: 7E805621004FF22
