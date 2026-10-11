@@ -1,10 +1,8 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: 1.5
-    VOLKSWAGEN_AAT_V2: 1.5
+    TAOS_AAT: 1.5
   response: 7B00462260903
 - expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: -0.5
-    VOLKSWAGEN_AAT_V2: -0.5
+    TAOS_AAT: -0.5
   response: 7B004622609FF

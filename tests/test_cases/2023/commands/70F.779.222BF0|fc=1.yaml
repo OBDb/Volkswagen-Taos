@@ -1,23 +1,23 @@
 command_id: 70F.779.222BF0|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_F_R_VSS_DIFF: 0
+    TAOS_PQ35_HAL_F_R_VSS_DIFF: 0
   response: 77905622BF00000
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_F_R_VSS_DIFF: 0.1
+    TAOS_PQ35_HAL_F_R_VSS_DIFF: 0.1
   response: 77905622BF00001
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_F_R_VSS_DIFF: 0.2
+    TAOS_PQ35_HAL_F_R_VSS_DIFF: 0.2
   response: 77905622BF00002
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_F_R_VSS_DIFF: 0.3
+    TAOS_PQ35_HAL_F_R_VSS_DIFF: 0.3
   response: 77905622BF00003
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_F_R_VSS_DIFF: 0.5
+    TAOS_PQ35_HAL_F_R_VSS_DIFF: 0.5
   response: 77905622BF00005
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_F_R_VSS_DIFF: 0.6
+    TAOS_PQ35_HAL_F_R_VSS_DIFF: 0.6
   response: 77905622BF00006
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_F_R_VSS_DIFF: 0.9
+    TAOS_PQ35_HAL_F_R_VSS_DIFF: 0.9
   response: 77905622BF00009

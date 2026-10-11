@@ -1,14 +1,26 @@
 command_id: 7E0.7E8.2210D3
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_2_RAIL_P_1: 0
+    TAOS_PQ35_INJ_2_RAIL_P_1: 0
   response: 7E8056210D30000
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_2_RAIL_P_1: 5.0000000000000002e-05
+    TAOS_PQ35_INJ_2_RAIL_P_1: 5.0000000000000002e-05
   response: 7E8056210D30001
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_2_RAIL_P_1: 0.0001
+    TAOS_PQ35_INJ_2_RAIL_P_1: 0.0001
   response: 7E8056210D30002
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_2_RAIL_P_1: -0.0001
+    TAOS_PQ35_INJ_2_RAIL_P_1: 0.00015
+  response: 7E8056210D30003
+- expected_values:
+    TAOS_PQ35_INJ_2_RAIL_P_1: -0.00045
+  response: 7E8056210D3FFF7
+- expected_values:
+    TAOS_PQ35_INJ_2_RAIL_P_1: -0.00035
+  response: 7E8056210D3FFF9
+- expected_values:
+    TAOS_PQ35_INJ_2_RAIL_P_1: -0.0001
   response: 7E8056210D3FFFE
+- expected_values:
+    TAOS_PQ35_INJ_2_RAIL_P_1: -5.0000000000000002e-05
+  response: 7E8056210D3FFFF

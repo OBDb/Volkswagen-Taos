@@ -1,14 +1,14 @@
-command_id: 7E0.2211BA
+command_id: 7E0.7E8.2211BA|t=96,fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 57.64
+    TAOS_OIL_LEVEL: 5.764
   response: 7E8056211BA384A
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 57.88
+    TAOS_OIL_LEVEL: 5.788
   response: 7E8056211BA3886
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 58.06
+    TAOS_OIL_LEVEL: 5.806
   response: 7E8056211BA38B3
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 58.26
+    TAOS_OIL_LEVEL: 5.826
   response: 7E8056211BA38E5

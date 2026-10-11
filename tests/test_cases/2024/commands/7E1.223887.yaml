@@ -1,17 +1,17 @@
 command_id: 7E1.223887
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ODO_2: 33510.6
+    TAOS_MQB_TCM_ODO_2: 33510.6
   response: 7E907623887021D0500
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ODO_2: 43960.1
+    TAOS_MQB_TCM_ODO_2: 43960.1
   response: 7E90762388731B50600
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ODO_2: 47320.9
+    TAOS_MQB_TCM_ODO_2: 47320.9
   response: '7E90762388779380700'
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ODO_2: 33303.6
+    TAOS_MQB_TCM_ODO_2: 33303.6
   response: 7E907623887EC140500
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ODO_2: 34329.5
+    TAOS_MQB_TCM_ODO_2: 34329.5
   response: 7E907623887FF3C0500

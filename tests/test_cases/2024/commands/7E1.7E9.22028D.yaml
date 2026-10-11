@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22028D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ECU_T: 11
+    TAOS_MQB_TCM_ECU_T: 11
   response: 7E90562028D0B00
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ECU_T: 90
+    TAOS_MQB_TCM_ECU_T: 90
   response: 7E90562028D5A00

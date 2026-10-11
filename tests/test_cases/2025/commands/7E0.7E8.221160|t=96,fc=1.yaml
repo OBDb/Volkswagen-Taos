@@ -1,5 +1,5 @@
-command_id: 7E0.7E8.221160
+command_id: 7E0.7E8.221160|t=96,fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 40960.459
+    TAOS_ODO_HD: 40960459
   response: 7E807621160027101CB

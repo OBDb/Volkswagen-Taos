@@ -1,14 +1,32 @@
 command_id: 7E1.7E9.22380D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_INPUT_SHAFT_2: 0
+    TAOS_MQB_INPUT_SHAFT_2: 0
   response: 7E90562380D0000
 - expected_values:
-    VOLKSWAGEN_MQB_INPUT_SHAFT_2: 1861
+    TAOS_MQB_INPUT_SHAFT_2: 1815
+  response: 7E90562380D1707
+- expected_values:
+    TAOS_MQB_INPUT_SHAFT_2: 1312
+  response: 7E90562380D2005
+- expected_values:
+    TAOS_MQB_INPUT_SHAFT_2: 1577
+  response: 7E90562380D2906
+- expected_values:
+    TAOS_MQB_INPUT_SHAFT_2: 1085
+  response: 7E90562380D3D04
+- expected_values:
+    TAOS_MQB_INPUT_SHAFT_2: 1861
   response: 7E90562380D4507
 - expected_values:
-    VOLKSWAGEN_MQB_INPUT_SHAFT_2: 151
+    TAOS_MQB_INPUT_SHAFT_2: 1386
+  response: 7E90562380D6A05
+- expected_values:
+    TAOS_MQB_INPUT_SHAFT_2: 151
   response: 7E90562380D9700
 - expected_values:
-    VOLKSWAGEN_MQB_INPUT_SHAFT_2: 1191
+    TAOS_MQB_INPUT_SHAFT_2: 1191
   response: 7E90562380DA704
+- expected_values:
+    TAOS_MQB_INPUT_SHAFT_2: 1449
+  response: 7E90562380DA905

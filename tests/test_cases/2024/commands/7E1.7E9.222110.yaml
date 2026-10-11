@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.222110
+test_cases:
+- expected_values:
+    TAOS_ENG_SPEC_TQ_DURING: 1105
+  response: '7E9056221100451'
+- expected_values:
+    TAOS_ENG_SPEC_TQ_DURING: 7250
+  response: 7E9056221101C52
+- expected_values:
+    TAOS_ENG_SPEC_TQ_DURING: 46160
+  response: 7E905622110B450
+- expected_values:
+    TAOS_ENG_SPEC_TQ_DURING: 62545
+  response: 7E905622110F451

@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22102C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_CLUTCH_2_T: 4
+    TAOS_PQ35_CLUTCH_2_T: 4
   response: 7E90562102C0400
 - expected_values:
-    VOLKSWAGEN_PQ35_CLUTCH_2_T: 102
+    TAOS_PQ35_CLUTCH_2_T: 102
   response: 7E90562102C6600

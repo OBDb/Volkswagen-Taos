@@ -1,11 +1,26 @@
 command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_CABIN: -31.5
+    TAOS_OUTSIDE_T_SYSTEM: -31.5
   response: 7B00462260A25
 - expected_values:
-    VOLKSWAGEN_AAT_CABIN: -30
+    TAOS_OUTSIDE_T_SYSTEM: -30
   response: 7B00462260A28
 - expected_values:
-    VOLKSWAGEN_AAT_CABIN: -22
+    TAOS_OUTSIDE_T_SYSTEM: -23
+  response: 7B00462260A36
+- expected_values:
+    TAOS_OUTSIDE_T_SYSTEM: -22.5
+  response: 7B00462260A37
+- expected_values:
+    TAOS_OUTSIDE_T_SYSTEM: -22
   response: 7B00462260A38
+- expected_values:
+    TAOS_OUTSIDE_T_SYSTEM: -21.5
+  response: 7B00462260A39
+- expected_values:
+    TAOS_OUTSIDE_T_SYSTEM: -21
+  response: 7B00462260A3A
+- expected_values:
+    TAOS_OUTSIDE_T_SYSTEM: -20.5
+  response: 7B00462260A3B

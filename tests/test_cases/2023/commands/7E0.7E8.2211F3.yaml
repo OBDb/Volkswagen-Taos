@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211F3
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: 0
+    TAOS_PQ35_POST_INJ_2_START: 0
   response: 7E8056211F30000
 - expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: -15.38
+    TAOS_PQ35_POST_INJ_2_START: -15.38
   response: 7E8056211F3FCFF
 - expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: -3.76
+    TAOS_PQ35_POST_INJ_2_START: -3.76
   response: 7E8056211F3FF44
