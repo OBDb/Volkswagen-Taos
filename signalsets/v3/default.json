@@ -339,7 +339,7 @@
   ]},
 { "hdr": "7E0", "cmd": {"22": "11BE"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2026 },
   "signals": [
-    {"id": "TAOS_PQ35_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Oil temperature variant"}
+    {"id": "TAOS_PQ35_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -60, "nullmax": 200, "unit": "celsius" }, "name": "Oil temperature variant"}
   ]},
 { "hdr": "7E0", "din": "03", "dbg": true, "cmd": {"22": "1628"}, "freq": 5,
   "signals": [
