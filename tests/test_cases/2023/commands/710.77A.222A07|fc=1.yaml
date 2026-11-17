@@ -1,11 +1,17 @@
 command_id: 710.77A.222A07|fc=1
 test_cases:
 - expected_values:
-    TAOS_BAT_V_2A07: 4
+    TAOS_BAT_V_2A07: null
   response: 77A05622A070000
+- expected_values:
+    TAOS_BAT_V_2A07: 10.814
+  response: 77A05622A071A9E
 - expected_values:
     TAOS_BAT_V_2A07: 12.447
   response: 77A05622A0720FF
+- expected_values:
+    TAOS_BAT_V_2A07: 12.448
+  response: 77A05622A072100
 - expected_values:
     TAOS_BAT_V_2A07: 14.752
   response: 77A05622A072A00
